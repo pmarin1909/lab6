@@ -1,1 +1,1 @@
-# lab6
+# laboratorio Docker de HPC-Bio 
